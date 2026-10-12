@@ -1,0 +1,13 @@
+key,formula,name,state,molecular_weight_g_mol,reference_temperature_K,standard_pressure_MPa,source,temperature_min_K,temperature_max_K,rows,note
+C_graphite,C,Carbon,graphite (reference state),12.011,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+CO2,CO2,Carbon dioxide,ideal gas,44.0098,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,61,
+CO,CO,Carbon monoxide,ideal gas,28.0104,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",298.15,6000.0,59,
+CH4,CH4,Methane,ideal gas,16.04276,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+O2,O2,Oxygen,ideal gas-reference state,31.9988,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+N2,N2,Nitrogen,ideal gas-reference state,28.0134,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+H2O,H2O,Water,ideal gas,18.01528,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,61,
+H,H,Hydrogen atom,ideal gas,1.00794,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+O,O,Oxygen atom,ideal gas,15.9994,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+OH,OH,Hydroxyl radical,ideal gas,17.0074,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+C2H4,C2H4,Ethene,ideal gas,28.05376,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Appendix A, Table A2",100.0,6000.0,64,
+C8H18,C8H18,Octane,liquid,,298.15,0.1,"Glassman & Yetter, Combustion, 4th ed., Table 1.1 (Appendix A thermochemical data summary)",298.15,298.15,1,"Detailed temperature-dependent thermochemical data for higher-order hydrocarbons are not presented in this appendix; only Delta Hf,298 is included here."

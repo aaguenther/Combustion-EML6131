@@ -1,0 +1,2 @@
+temperature_K,cp_J_per_mol_K,entropy_J_per_mol_K,minus_G_minus_Href_over_T_J_per_mol_K,delta_H_sensible_kJ_per_mol,delta_Hf_kJ_per_mol,delta_Gf_kJ_per_mol,log10_Kf
+298.15,,,,0,-250.31,,
